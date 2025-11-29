@@ -1,0 +1,13 @@
+/* Premium Colorful Background */
+body {
+  background: linear-gradient(135deg, #7F00FF, #E100FF);
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
